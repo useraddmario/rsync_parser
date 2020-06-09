@@ -1,0 +1,1 @@
+'''Simple rsync log parsing utility made during a regex class for practice.  The class version was on Windows using Robocopy logs, but this is made using rsync.  Includes one successful job and one failed job, both output to a json flat file.'''
